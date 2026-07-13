@@ -1,33 +1,16 @@
-# Visual Studio
 .vs/
-*.VC.db
-*.VC.opendb
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Build outputs
 x64/
 Debug/
 Release/
 build/
 out/
 
-# C/C++
-*.o
+*.user
+*.suo
 *.obj
-*.exe
-*.dll
-*.lib
 *.pdb
-*.idb
 *.ilk
-
-# Temp/logs
+*.exe
 *.log
-*.tmp
-
-# OS
-.DS_Store
-Thumbs.db
+*.idb
+*.tlog
